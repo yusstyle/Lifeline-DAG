@@ -1,0 +1,5 @@
+/* Remove all content, keep it empty or add only this */
+body {
+  margin: 0;
+  padding: 0;
+}
